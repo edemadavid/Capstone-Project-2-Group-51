@@ -131,7 +131,7 @@ footer{
     left: 43.5%;
 }
 #footer-icon{
-    margin-right: 16px;
+    margin-left: 15px;
 }
 
 #footer-item:hover{
@@ -205,4 +205,8 @@ footer{
     .nav1 li a {
         color: black !important;
     }
+    #footer-link{
+        align-items: center;
+    }
+
 }
